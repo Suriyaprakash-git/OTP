@@ -1,0 +1,5 @@
+backend/node_modules
+frontend/node_modules
+frontend/curl.sh
+backend/.env
+node_modules
